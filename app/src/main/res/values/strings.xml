@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">MovieCatalogUIUX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TVShow</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab</string>
+
+
+    <string name="example_desc">A musician helps a young singer find fame as age and alcoholism send his own career into
+        a downward spiral.
+    </string>
+    <string name="example_rating">4</string>
+    <string name="example_title">Title</string>
+
+    <string-array name="data_title">
+        <item>A Star</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity</item>
+        <item>Bird Box</item>
+        <item>Bohemian</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Deadpool</item>
+        <item>How To Train Your Dragon III</item>
+        <item>Dragon Ball Super: Broly</item>
+
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+        <item>6</item>
+        <item>8</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</item>
+        <item>Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.</item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.</item>
+        <item>The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small California beach town. On the cusp of turning 18 and trying to find her place in the world, Charlie Watson discovers Bumblebee, battle-scarred and broken.</item>
+        <item>Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.</item>
+        <item>Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.</item>
+        <item>When Hiccup discovers Toothless isn\'t the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.</item>
+        <item>Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they\'ve faced before.</item>
+
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+
+    </array>
+
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="image_poster">Image poster</string>
+    <string name="date_relealesed">date_relealesed</string>
+    <string name="user_score">87%</string>
+    <string name="runtime">1h 45m</string>
+    <string name="star_icon">star_icon</string>
+    <string name="timer_icon">timer_icon</string>
+    <string name="title">Title</string>
+    <string name="status">Status</string>
+    <string name="status_detail">Released</string>
+    <string name="icon_released_detail">icon_released_detail</string>
+    <string name="first_line">first_line</string>
+    <string name="second_line">second_line</string>
+    <string name="title_budgets">Budget</string>
+    <string name="budget">$4,000,000,00</string>
+    <string name="title_revenue">Revenue</string>
+    <string name="revenue">$19,000,000,00</string>
+    <string name="title_overview">Overview</string>
+    <string name="third_line">third_line</string>
+    <string name="languange">English</string>
+    <string name="icon_language">icon_language</string>
+    <string name="genres">Genres</string>
+    <string name="genre_detail">Genre Detail</string>
+    <string name="detail_overview">Detail Overview</string>
+    <string name="title_crew">Crew</string>
+    <string name="crew_detail">Crew Detail</string>
+    <string name="change_language_settings">Language Configuration</string>
+</resources>
